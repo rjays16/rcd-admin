@@ -1,0 +1,41 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "HelperFunctions": {
+    "description": "Auto imported from components/Helper/functions.js"
+  },
+  "LayoutFooter": {
+    "description": "Auto imported from components/Layout/Footer.vue"
+  },
+  "LayoutNavbar": {
+    "description": "Auto imported from components/Layout/Navbar.vue"
+  },
+  "LayoutSidebar": {
+    "description": "Auto imported from components/Layout/Sidebar.vue"
+  },
+  "ModalPayments": {
+    "description": "Auto imported from components/Modal/Payments.vue"
+  },
+  "ModalSendingEmail": {
+    "description": "Auto imported from components/Modal/SendingEmail.vue"
+  },
+  "ModalAbstractEdit": {
+    "description": "Auto imported from components/Modal/Abstract/Edit.vue"
+  },
+  "ModalAbstractPreview": {
+    "description": "Auto imported from components/Modal/Abstract/Preview.vue"
+  },
+  "ModalIdeapayPaymentDetails": {
+    "description": "Auto imported from components/Modal/Ideapay/PaymentDetails.vue"
+  },
+  "ModalMemberOrders": {
+    "description": "Auto imported from components/Modal/Member/Orders.vue"
+  },
+  "ModalMemberPayments": {
+    "description": "Auto imported from components/Modal/Member/Payments.vue"
+  },
+  "ModalPasswordRequestReset": {
+    "description": "Auto imported from components/Modal/Password/RequestReset.vue"
+  }
+}

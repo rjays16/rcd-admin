@@ -1,0 +1,326 @@
+[
+  {
+    "name": "attendees",
+    "path": "/attendees",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\attendees\\\\index.vue",
+    "chunkName": "pages/attendees/index"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard"
+  },
+  {
+    "name": "delegates",
+    "path": "/delegates",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\delegates\\\\index.vue",
+    "chunkName": "pages/delegates/index"
+  },
+  {
+    "name": "fees",
+    "path": "/fees",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\fees\\\\index.vue",
+    "chunkName": "pages/fees/index"
+  },
+  {
+    "name": "industry-lectures",
+    "path": "/industry-lectures",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\industry-lectures\\\\index.vue",
+    "chunkName": "pages/industry-lectures/index"
+  },
+  {
+    "name": "orders",
+    "path": "/orders",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\orders.vue",
+    "chunkName": "pages/orders"
+  },
+  {
+    "name": "payments",
+    "path": "/payments",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\payments\\\\index.vue",
+    "chunkName": "pages/payments/index"
+  },
+  {
+    "name": "plenary",
+    "path": "/plenary",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\plenary\\\\index.vue",
+    "chunkName": "pages/plenary/index"
+  },
+  {
+    "name": "sponsors",
+    "path": "/sponsors",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\index.vue",
+    "chunkName": "pages/sponsors/index"
+  },
+  {
+    "name": "symposia",
+    "path": "/symposia",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\symposia\\\\index.vue",
+    "chunkName": "pages/symposia/index"
+  },
+  {
+    "name": "vips",
+    "path": "/vips",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\vips\\\\index.vue",
+    "chunkName": "pages/vips/index"
+  },
+  {
+    "name": "abstract-EPoster",
+    "path": "/abstract/EPoster",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\abstract\\\\EPoster.vue",
+    "chunkName": "pages/abstract/EPoster"
+  },
+  {
+    "name": "abstract-FreePapers",
+    "path": "/abstract/FreePapers",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\abstract\\\\FreePapers.vue",
+    "chunkName": "pages/abstract/FreePapers"
+  },
+  {
+    "name": "fees-add",
+    "path": "/fees/add",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\fees\\\\add.vue",
+    "chunkName": "pages/fees/add"
+  },
+  {
+    "name": "plenary-add",
+    "path": "/plenary/add",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\plenary\\\\add.vue",
+    "chunkName": "pages/plenary/add"
+  },
+  {
+    "name": "site-settings-abstract-submission",
+    "path": "/site-settings/abstract-submission",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\abstract-submission.vue",
+    "chunkName": "pages/site-settings/abstract-submission"
+  },
+  {
+    "name": "site-settings-banner",
+    "path": "/site-settings/banner",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\banner.vue",
+    "chunkName": "pages/site-settings/banner"
+  },
+  {
+    "name": "site-settings-event-schedule",
+    "path": "/site-settings/event-schedule",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\event-schedule.vue",
+    "chunkName": "pages/site-settings/event-schedule"
+  },
+  {
+    "name": "site-settings-nav-settings",
+    "path": "/site-settings/nav-settings",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\nav-settings.vue",
+    "chunkName": "pages/site-settings/nav-settings"
+  },
+  {
+    "name": "site-settings-page-access",
+    "path": "/site-settings/page-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\page-access.vue",
+    "chunkName": "pages/site-settings/page-access"
+  },
+  {
+    "name": "site-settings-page-iframes",
+    "path": "/site-settings/page-iframes",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\page-iframes.vue",
+    "chunkName": "pages/site-settings/page-iframes"
+  },
+  {
+    "name": "site-settings-privacy-policy",
+    "path": "/site-settings/privacy-policy",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\privacy-policy.vue",
+    "chunkName": "pages/site-settings/privacy-policy"
+  },
+  {
+    "name": "site-settings-registration",
+    "path": "/site-settings/registration",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\registration.vue",
+    "chunkName": "pages/site-settings/registration"
+  },
+  {
+    "name": "site-settings-terms-and-conditions",
+    "path": "/site-settings/terms-and-conditions",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\terms-and-conditions.vue",
+    "chunkName": "pages/site-settings/terms-and-conditions"
+  },
+  {
+    "name": "site-settings-vcc",
+    "path": "/site-settings/vcc",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\vcc.vue",
+    "chunkName": "pages/site-settings/vcc"
+  },
+  {
+    "name": "site-settings-vods",
+    "path": "/site-settings/vods",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\vods\\\\index.vue",
+    "chunkName": "pages/site-settings/vods/index"
+  },
+  {
+    "name": "site-settings-welcome-message",
+    "path": "/site-settings/welcome-message",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\welcome-message.vue",
+    "chunkName": "pages/site-settings/welcome-message"
+  },
+  {
+    "name": "sponsors-add",
+    "path": "/sponsors/add",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\add.vue",
+    "chunkName": "pages/sponsors/add"
+  },
+  {
+    "name": "sponsors-booth-designs",
+    "path": "/sponsors/booth-designs",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\booth-designs\\\\index.vue",
+    "chunkName": "pages/sponsors/booth-designs/index"
+  },
+  {
+    "name": "symposia-add",
+    "path": "/symposia/add",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\symposia\\\\add.vue",
+    "chunkName": "pages/symposia/add"
+  },
+  {
+    "name": "symposia-categories",
+    "path": "/symposia/categories",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\symposia\\\\categories\\\\index.vue",
+    "chunkName": "pages/symposia/categories/index"
+  },
+  {
+    "name": "site-settings-vods-add",
+    "path": "/site-settings/vods/add",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\vods\\\\add.vue",
+    "chunkName": "pages/site-settings/vods/add"
+  },
+  {
+    "name": "sponsors-booth-designs-add",
+    "path": "/sponsors/booth-designs/add",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\booth-designs\\\\add.vue",
+    "chunkName": "pages/sponsors/booth-designs/add"
+  },
+  {
+    "name": "symposia-categories-add",
+    "path": "/symposia/categories/add",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\symposia\\\\categories\\\\add.vue",
+    "chunkName": "pages/symposia/categories/add"
+  },
+  {
+    "name": "site-settings-vods-edit-id",
+    "path": "/site-settings/vods/edit/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\site-settings\\\\vods\\\\edit\\\\_id.vue",
+    "chunkName": "pages/site-settings/vods/edit/_id"
+  },
+  {
+    "name": "sponsors-booth-designs-edit-id",
+    "path": "/sponsors/booth-designs/edit/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\booth-designs\\\\edit\\\\_id.vue",
+    "chunkName": "pages/sponsors/booth-designs/edit/_id"
+  },
+  {
+    "name": "symposia-categories-edit-id",
+    "path": "/symposia/categories/edit/:id?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\symposia\\\\categories\\\\edit\\\\_id.vue",
+    "chunkName": "pages/symposia/categories/edit/_id"
+  },
+  {
+    "name": "delegates-edit-id",
+    "path": "/delegates/edit/:id?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\delegates\\\\edit\\\\_id.vue",
+    "chunkName": "pages/delegates/edit/_id"
+  },
+  {
+    "name": "fees-edit-id",
+    "path": "/fees/edit/:id?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\fees\\\\edit\\\\_id.vue",
+    "chunkName": "pages/fees/edit/_id"
+  },
+  {
+    "name": "industry-lectures-edit-id",
+    "path": "/industry-lectures/edit/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\industry-lectures\\\\edit\\\\_id.vue",
+    "chunkName": "pages/industry-lectures/edit/_id"
+  },
+  {
+    "name": "plenary-edit-id",
+    "path": "/plenary/edit/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\plenary\\\\edit\\\\_id\\\\index.vue",
+    "chunkName": "pages/plenary/edit/_id/index"
+  },
+  {
+    "name": "sponsors-edit-id",
+    "path": "/sponsors/edit/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\edit\\\\_id\\\\index.vue",
+    "chunkName": "pages/sponsors/edit/_id/index"
+  },
+  {
+    "name": "symposia-edit-id",
+    "path": "/symposia/edit/:id?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\symposia\\\\edit\\\\_id.vue",
+    "chunkName": "pages/symposia/edit/_id"
+  },
+  {
+    "name": "vips-edit-id",
+    "path": "/vips/edit/:id?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\vips\\\\edit\\\\_id.vue",
+    "chunkName": "pages/vips/edit/_id"
+  },
+  {
+    "name": "sponsors-edit-id-brochures",
+    "path": "/sponsors/edit/:id?/brochures",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\edit\\\\_id\\\\brochures\\\\index.vue",
+    "chunkName": "pages/sponsors/edit/_id/brochures/index"
+  },
+  {
+    "name": "sponsors-edit-id-product-catalogue",
+    "path": "/sponsors/edit/:id?/product-catalogue",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\edit\\\\_id\\\\product-catalogue\\\\index.vue",
+    "chunkName": "pages/sponsors/edit/_id/product-catalogue/index"
+  },
+  {
+    "name": "sponsors-edit-id-videos",
+    "path": "/sponsors/edit/:id?/videos",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\edit\\\\_id\\\\videos\\\\index.vue",
+    "chunkName": "pages/sponsors/edit/_id/videos/index"
+  },
+  {
+    "name": "sponsors-edit-id-brochures-add",
+    "path": "/sponsors/edit/:id?/brochures/add",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\edit\\\\_id\\\\brochures\\\\add.vue",
+    "chunkName": "pages/sponsors/edit/_id/brochures/add"
+  },
+  {
+    "name": "sponsors-edit-id-product-catalogue-add",
+    "path": "/sponsors/edit/:id?/product-catalogue/add",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\edit\\\\_id\\\\product-catalogue\\\\add.vue",
+    "chunkName": "pages/sponsors/edit/_id/product-catalogue/add"
+  },
+  {
+    "name": "sponsors-edit-id-videos-add",
+    "path": "/sponsors/edit/:id?/videos/add",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\edit\\\\_id\\\\videos\\\\add.vue",
+    "chunkName": "pages/sponsors/edit/_id/videos/add"
+  },
+  {
+    "name": "sponsors-edit-id-brochures-edit-brochure_id",
+    "path": "/sponsors/edit/:id?/brochures/edit/:brochure_id?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\edit\\\\_id\\\\brochures\\\\edit\\\\_brochure_id.vue",
+    "chunkName": "pages/sponsors/edit/_id/brochures/edit/_brochure_id"
+  },
+  {
+    "name": "sponsors-edit-id-product-catalogue-edit-catalog_id",
+    "path": "/sponsors/edit/:id?/product-catalogue/edit/:catalog_id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\edit\\\\_id\\\\product-catalogue\\\\edit\\\\_catalog_id.vue",
+    "chunkName": "pages/sponsors/edit/_id/product-catalogue/edit/_catalog_id"
+  },
+  {
+    "name": "sponsors-edit-id-videos-edit-video_id",
+    "path": "/sponsors/edit/:id?/videos/edit/:video_id?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\sponsors\\\\edit\\\\_id\\\\videos\\\\edit\\\\_video_id.vue",
+    "chunkName": "pages/sponsors/edit/_id/videos/edit/_video_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-admin\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
