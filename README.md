@@ -1,1 +1,1 @@
-# rcd-admin
+RCD Admin: This is the Administration (back office) for RCD
